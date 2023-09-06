@@ -1,0 +1,203 @@
+lectures:
+  - date: 2022-10-11
+    type:
+    content:
+    - xtitle: Introductions
+      xslides: lectures/01_Introduction.pdf
+    reading:
+    - optional: True,
+      title: "Deep Learning Book - Part I: Applied Math and Machine Learning Basics"
+      url: http://www.deeplearningbook.org/
+    objectives:
+      - establish learning environment (active participation etc.)
+      - reflect on personal goals, motivation and (prior) knowledge
+      - make course goals explicit (and link them to personal goals)
+      - anchor course topic within broader scope of machine learning and deep learning
+    activities:
+      - "general classroom setup: circle of chairs / round table"
+      - "15min introductions: get to know each other (name, study background, semester etc.)"
+      - "15min explain course rationale, (global) learning objectives, grading mode,
+        establish/sign 'class contract' (signing can be done offline, bring to next class)"
+      - "5min assign class documenter role for today
+        (takes photos for short course blog entry and does 3min-recap in next lesson, rotates each time),
+        if < 15 students, instructor takes this role for 1st class,
+        documenters for remaining classes will be determined by doodle poll"
+      - 5min explain learner blogs (example)
+      - "20min collect expectations and prior experiences
+        (option: ball joint with cross-disciplinary pairs: 3 steps, 5min each),
+        5min for taking notes afterwards,
+        homework: write this down in learner blog"
+      - "15min group work: active structuring of ML topics (given topics, mixed groups)"
+      - "15min topic map (together), can optionally moved to next class"
+    note: "TODO: more links to online lectures/talks on basics"
+
+  - date: 2022-10-18
+    type:
+    content:
+      - title: MLPs, Gradient Descent & Backpropagation
+        slides:
+    reading:
+      - title: "Deep Learning Book - Chapter 6: Deep Feedforward Networks"
+        url: http://www.deeplearningbook.org/contents/mlp.html
+    assignment:
+      - label: "First Steps"
+        link: ass1.html
+        objectives:
+          - "Get your feet wet!"
+
+  - date: 2022-10-25
+    type:
+    content:
+    - title: CNNs
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, Sections 9.1 to 9.5"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    type:
+    assignment:
+      - label: "tf.data & Tensorboard"
+        link: ass2.html
+
+  - date: 2022-11-01
+    type:
+    content:
+    - title: CNNs (cont.)
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, remaining sections"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    - title: Reading Assignment
+      url: reading3.html
+    type:
+    assignment:
+      - label: "Basic CNNs & Keras"
+        link: ass3.html
+
+  - date: 2022-11-08
+    TODO: "include 10.6 on Recursive Nets" 
+    type:
+    content:
+    - title: RNNs
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.1 to 10.5"
+      url: http://www.deeplearningbook.org/contents/rnn.html
+    assignment:
+    - label: DenseNet
+      link: ass4.html
+
+  - date: 2022-11-15
+    TODO: "exclude 10.6 on Recursive Nets" 
+    type:
+    content:
+    - title: RNNs (cont.)
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.6, 10.7 and 10.10 to 10.12"
+      url: http://www.deeplearningbook.org/contents/rnn.html
+    - title: "Sequence Modeling With CTC"
+      url: https://distill.pub/2017/ctc/
+    assignment:
+    - label: Sentiment Classifcation Part 1
+      link: ass5.html
+
+  - date: 2022-11-22
+    type:
+    content:
+    - title: Attention and Memory
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading6.html
+    assignment:
+    - label: Sentiment Classification Part 2
+      link: ass6.html
+
+  - date: 2022-11-29
+    type:
+    content:
+    - title: Word Embeddings & Language Models
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading7.html
+    assignment:
+    - label: Attention-based NMT
+      link: ass7.html
+
+  - date: 2022-12-06
+    type:
+    content:
+    - title: Autoencoders & Self-Supervised Representation Learning
+      slides:
+    reading:
+  # Notes: DL-Book chapter 15 has a bit on RL using layer-wise pre-training,
+  # transfer learning and adversarial examples - i.e. limited coverage
+  # rather not use.
+    - title: Reading Assignment
+      url: reading8.html
+    type:
+    assignment:
+    - label: Word2Vec
+      link: ass8a.html
+
+  - date: 2022-12-13
+    type:
+    content:
+    - title: Regularization & Optimization
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 7: Regularization"
+      url: http://www.deeplearningbook.org/contents/regularization.html
+    - title: "Deep Learning Book - Chapter 8: Optimization (except Section 8.6)"
+      url: http://www.deeplearningbook.org/contents/optimization.html
+    - optional: True,
+      title: "Regularization for Deep Learning: A Taxonomy"
+      url: https://arxiv.org/abs/1710.10686
+    assignment:
+      - label: Self-supervised Learning
+        link: ass9.html
+    # - optional: True,
+    #   title: "optional reading for an introduction to predictive coding as self-supervised learning approach: Relaxing the Constraints on Predictive Coding Models"
+    #   url: https://arxiv.org/abs/2010.01047
+
+
+  - date: 2022-12-20
+    type:
+    content:
+    - title: Practical Methodology
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 11: Practical Methodology"
+      url: http://www.deeplearningbook.org/contents/guidelines.html
+    - title: "Practical Methodology Talk by Ian Goodfellow"
+      url: https://www.youtube.com/watch?v=NKiwFF_zBu4
+    - title: "Andrew Ng: Machine Learning Yearning"
+      url: http://mlyearning.org/
+    assignment:
+    - label: Adversarial Examples
+      link: ass10.html
+
+  - date: 2023-01-10
+    type:
+    content:
+    - title: Introspection
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading11.html
+    assignment:
+    - label: Practical Methodology
+      link: ass11.html
+
+  - date: 2023-01-17
+    type:
+    content:
+    - title: Graph Neural Networks
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading12.html
+    xassignment:
+    - label: Practical Methodology
+      link: ass11.html
