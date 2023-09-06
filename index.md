@@ -56,7 +56,8 @@ If you afterwards have got further questions about the course, please contact [S
 
 <img src="figures/prerequisites.png" width="700">
 
-([Link to LSF system](https://lsf.ovgu.de) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=13089) - Course Password: IDLWS2023)  
+([Link to LSF system](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=200184&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+| Link to Moodle (TBD) - Course Password: IDLWS2023)  
 Your submitted information will be solely used for application process. It will be treated confidentially and deleted after the candidates have been selected.  
 
 
@@ -91,7 +92,8 @@ In order to be admitted to the exam, you must not fail weekly assignments more t
 #### Exercises
 
 There will be two groups for the exercise.
-To participate in the exercises, you must register in the [LSF system](https://lsf.ovgu.de).
+To participate in the exercises, you must register in the 
+[LSF system](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=200538&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
 Registration is possible until October 6, 2023.
 When you apply for the exercise, you can specify priorities for the different dates.
 Please specify both dates with different priorities as we cannot guarantee that everybody will be assigned to their first choice!
