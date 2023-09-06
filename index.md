@@ -6,13 +6,12 @@ title: Index
 # Introduction to Deep Learning
 ---------------------------------
 
-Winter Semester 2022  
+Winter Semester 2023  
 [Prof. Dr. Sebastian Stober](http://www.ai.ovgu.de/Staff/Stober.html),
-[Jens Johannsmeier](http://www.ai.ovgu.de/Staff/Johannsmeier.html) &
-[Valerie Krug](http://ai.ovgu.de/Staff/Krug.html)  
-Tue 13:15-14:45; G29-307
+[Jens Johannsmeier](http://www.ai.ovgu.de/Staff/Johannsmeier.html)  
+Mon 11:00-13:00; G29-307
 
-**Start: Tuesday, October 11**
+**Start: Monday, October 9**
 
 ---
 
@@ -57,11 +56,11 @@ If you afterwards have got further questions about the course, please contact [S
 
 <img src="figures/prerequisites.png" width="700">
 
-([Link to LSF system](https://lsf.ovgu.de) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=13089) - Course Password: IDLWS2022)  
+([Link to LSF system](https://lsf.ovgu.de) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=13089) - Course Password: IDLWS2023)  
 Your submitted information will be solely used for application process. It will be treated confidentially and deleted after the candidates have been selected.  
 
 
-The deadline for applications is **October 4 (23:59), 2022**. Applications arriving later will only be considered if there is still course capacity.
+The deadline for applications is **October 2 (23:59), 2023**. Applications arriving later will only be considered if there is still course capacity.
 
 The aim of this process is to select students that are likely to successfully complete the course and not drop out half way through.
 
@@ -69,7 +68,7 @@ The aim of this process is to select students that are likely to successfully co
 #### Credits
 
 The course belongs the to topic domain "practical computer science" and amounts to **10 credit points** or an equivalent of **300 hours**.
-The expected weekly commitment is about 10 hours plus 3x90 minutes in-class time.
+The expected weekly commitment is about 10 hours plus 2x90 minutes in-class time.
 Be prepared to spend that much time!
 If you are into the topic and want to go deeper, rather plan for some extra time - it's worth it!
 
@@ -91,13 +90,11 @@ In order to be admitted to the exam, you must not fail weekly assignments more t
 
 #### Exercises
 
-There are two kinds of exercises - one for theory and one for praxis.
-You need to take both for the course.
-There will be two groups for each exercise type.
+There will be two groups for the exercise.
 To participate in the exercises, you must register in the [LSF system](https://lsf.ovgu.de).
-Registration is possible until October 7, 2022.
-When you apply for the exercise groups, you can specify priorities for the different dates.
-Please specify several dates with different priorities as we cannot guarantee that everybody will be assigned to their first choice!
+Registration is possible until October 6, 2023.
+When you apply for the exercise, you can specify priorities for the different dates.
+Please specify both dates with different priorities as we cannot guarantee that everybody will be assigned to their first choice!
 
 Please note: The final grouping of students into exercise groups will take place after the LSF registration deadline has passed.
 The allocation is based on the priorities that you indicated when you signed up.
