@@ -54,6 +54,8 @@ The following figure gives an overview about the three possible prerequisites an
 Please take a moment to read these information carefully!  
 If you afterwards have got further questions about the course, please contact [Sebastian Stober](mailto:stober@ovgu.de).
 
+**Note** There is no theory exercise this semester, the image below will be updated soon.
+
 <img src="figures/prerequisites.png" width="700">
 
 ([Link to LSF system](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=200184&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
