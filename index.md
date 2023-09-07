@@ -54,7 +54,7 @@ The following figure gives an overview about the three possible prerequisites an
 Please take a moment to read these information carefully!  
 If you afterwards have got further questions about the course, please contact [Sebastian Stober](mailto:stober@ovgu.de).
 
-**Note** There is no theory exercise this semester, the image below will be updated soon.
+**Note** There is no theory exercise this semester.
 
 <img src="figures/prerequisites.png" width="700">
 
