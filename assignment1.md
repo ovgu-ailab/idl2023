@@ -145,6 +145,9 @@ Play around with the example code snippets. Change them around and see if you
 can predict what's going to happen. Make sure you understand what you're dealing
 with!
 
+**NOTE:** A slightly updated version of the code (along with the "Tensorflow Basics"
+notebook from the exercise) has been uploaded to Moodle.
+
 
 ## Building A Deep Model
 
