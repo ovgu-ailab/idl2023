@@ -54,6 +54,6 @@ lectures:
     - title: "Deep Learning Book - Chapter 9: Convolutional Networks, Sections 9.1 to 9.5"
       url: http://www.deeplearningbook.org/contents/convnets.html
     type:
-    xassignment:
+    assignment:
       - label: "tf.data & Tensorboard"
-        link: ass2.html  
+        link: assignment2.html
