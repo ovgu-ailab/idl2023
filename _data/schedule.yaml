@@ -57,3 +57,18 @@ lectures:
     assignment:
       - label: "tf.data & Tensorboard"
         link: assignment2.html
+
+  - date: 2023-10-30
+    type:
+    content:
+    - title: CNNs (cont.)
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, remaining sections"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    - title: Reading Assignment
+      url: reading3.html
+    type:
+    xassignment:
+      - label: "Basic CNNs & Keras"
+        link: ass3.html
