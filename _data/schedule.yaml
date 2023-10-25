@@ -71,4 +71,4 @@ lectures:
     type:
     assignment:
       - label: "Basic CNNs & Keras"
-        link: ass3.html
+        link: assignment3.html
