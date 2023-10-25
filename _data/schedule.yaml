@@ -69,6 +69,6 @@ lectures:
     - title: Reading Assignment
       url: reading3.html
     type:
-    xassignment:
+    assignment:
       - label: "Basic CNNs & Keras"
         link: ass3.html
