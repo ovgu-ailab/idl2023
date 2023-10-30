@@ -72,3 +72,15 @@ lectures:
     assignment:
       - label: "Basic CNNs & Keras"
         link: assignment3.html
+
+  - date: 2023-11-06
+    type:
+    content:
+    - title: RNNs
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.1 to 10.6"
+      url: http://www.deeplearningbook.org/contents/rnn.html
+    xassignment:
+    - label: DenseNet
+      link: ass4.html
