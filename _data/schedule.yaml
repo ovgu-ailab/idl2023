@@ -82,5 +82,5 @@ lectures:
     - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.1 to 10.6"
       url: http://www.deeplearningbook.org/contents/rnn.html
     assignment:
-    - label: DenseNet
+    - label: ResNet
       link: assignment4.html
