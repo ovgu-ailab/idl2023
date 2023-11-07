@@ -84,3 +84,18 @@ lectures:
     assignment:
     - label: ResNet
       link: assignment4.html
+
+  - date: 2022-11-13
+    TODO: "exclude 10.6 on Recursive Nets"
+    type:
+    content:
+      - title: RNNs (cont.)
+        slides:
+    reading:
+      - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.6, 10.7 and 10.10 to 10.12"
+        url: http://www.deeplearningbook.org/contents/rnn.html
+      - title: "Sequence Modeling With CTC"
+        url: https://distill.pub/2017/ctc/
+    xassignment:
+      - label: Sentiment Classification Part 1
+        link: assignment5.html
