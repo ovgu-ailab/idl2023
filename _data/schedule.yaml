@@ -96,6 +96,6 @@ lectures:
         url: http://www.deeplearningbook.org/contents/rnn.html
       - title: "Sequence Modeling With CTC"
         url: https://distill.pub/2017/ctc/
-    xassignment:
+    assignment:
       - label: Sentiment Classification Part 1
         link: assignment5.html
