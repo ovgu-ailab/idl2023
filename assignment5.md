@@ -23,7 +23,7 @@ specifically text.
 Next week, we will build better models and deal with some of these issues.
 
 **The notebook associated with the practical exercise can be found 
-on E-Learning (TODO UPLOAD)**
+on E-Learning.**
 
 
 ## The Data
