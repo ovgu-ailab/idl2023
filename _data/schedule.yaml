@@ -107,6 +107,6 @@ lectures:
     reading:
     - title: Reading Assignment
       url: reading6.html
-    xassignment:
+    assignment:
     - label: Sentiment Classification Part 2
-      link: ass6.html
+      link: assignment6.html
