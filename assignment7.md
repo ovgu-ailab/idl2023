@@ -22,6 +22,8 @@ on, you need to answer some questions, posted further below!**
 
 ## Notes on the Tutorial
 
+**READ THIS**
+
 - You can copy and paste the code from the tutorial into your own notebook, **or**
 use the "Run in Google Colab" at the top.
   - If you go for option 2, make sure you "Save a copy in Drive" in the File menu,
@@ -32,22 +34,10 @@ use the "Run in Google Colab" at the top.
   submission!
 - **Do not** run the code cell with `pip install` in the Setup section! This might
 mess up your environment! The **only**
-library you need to install is `!pip install tensorflow-text`!
-- The tutorial claims that training should take an hour on Colab, but in our tests,
-it rather seems to take more than two hours... for one epoch!! You might want to
-make the model significantly smaller, e.g. `num_layers = 2, d_model = 64, dff = 128, num_heads = 4, dropout_rate = 0.1`
-should take around 30 minutes per epoch, which means it should be okay to run this
-for around 2 epochs or so (don't expect amazing results...).
-    - You can also reduce the `MAX_TOKENS` parameter (e.g. to 64) to speed up training further.
-    - Be sure to select a GPU in the notebook settings, i.e. don't run on CPU!
-    - In our tests, it made little difference whether we ran on GPU, TPU or CPU.
-  Reasons are currently unclear.
-    - We might post updates on Mattermost if we find more ways to speed it up -- feel free
-  to do the same!
-
-With the proposed reductions in parameters, training for around an hour or so
-(even on CPU) should be sufficient to give results that look at least _somewhat_
-like the intended outputs.
+library you need to install is `!pip install tensorflow-text==2.14.0`!
+  - If you don't install the correct version of tf-text, it will install TF 2.15 instead,
+  which for whatever reason is MUCH slower (were talking 30x or so). Training will
+  take forever!
 
 
 ## Questions for Understanding
