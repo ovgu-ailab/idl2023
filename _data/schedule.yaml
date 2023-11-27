@@ -122,3 +122,12 @@ lectures:
     assignment:
     - label: Attention-based NMT
       link: assignment7.html
+
+  - date: 2023-12-04
+    type:
+    content:
+    - title: Introspection
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading8.html
