@@ -131,3 +131,7 @@ lectures:
     reading:
     - title: Reading Assignment
       url: reading8.html
+
+    assignment:
+    - label: Word2Vec
+      link: assignment8.html
