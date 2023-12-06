@@ -148,6 +148,6 @@ lectures:
     - title: Reading Assignment
       url: reading9.html
     type:
-    xassignment:
-    - label: Word2Vec
-      link: ass8a.html
+    assignment:
+    - label: Introspection
+      link: assignment9.html
