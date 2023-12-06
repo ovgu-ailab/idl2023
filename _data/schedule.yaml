@@ -135,3 +135,19 @@ lectures:
     assignment:
     - label: Word2Vec
       link: assignment8.html
+
+  - date: 2023-12-11
+    type:
+    content:
+    - title: Autoencoders & Self-Supervised Representation Learning
+      slides:
+    reading:
+  # Notes: DL-Book chapter 15 has a bit on RL using layer-wise pre-training,
+  # transfer learning and adversarial examples - i.e. limited coverage
+  # rather not use.
+    - title: Reading Assignment
+      url: reading9.html
+    type:
+    xassignment:
+    - label: Word2Vec
+      link: ass8a.html
