@@ -151,3 +151,23 @@ lectures:
     assignment:
     - label: Introspection
       link: assignment9.html
+
+  - date: 2023-12-18
+    type:
+    content:
+    - title: Regularization & Optimization
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 7: Regularization"
+      url: http://www.deeplearningbook.org/contents/regularization.html
+    - title: "Deep Learning Book - Chapter 8: Optimization (except Section 8.6)"
+      url: http://www.deeplearningbook.org/contents/optimization.html
+    - optional: True,
+      title: "Regularization for Deep Learning: A Taxonomy"
+      url: https://arxiv.org/abs/1710.10686
+    xassignment:
+      - label: Self-supervised Learning
+        link: ass9.html
+    # - optional: True,
+    #   title: "optional reading for an introduction to predictive coding as self-supervised learning approach: Relaxing the Constraints on Predictive Coding Models"
+    #   url: https://arxiv.org/abs/2010.01047
