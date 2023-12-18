@@ -6,7 +6,7 @@ id: ass10
 
 
 # Assignment 10: Self-Supervised Learning
-**Deadline: December 20th, 9am**
+**Deadline: January 10th, 9am**
 
 **NOTE The deadline will likely be moved to January!**
 
