@@ -171,3 +171,19 @@ lectures:
     # - optional: True,
     #   title: "optional reading for an introduction to predictive coding as self-supervised learning approach: Relaxing the Constraints on Predictive Coding Models"
     #   url: https://arxiv.org/abs/2010.01047
+
+  - date: 2024-01-08
+    type:
+    content:
+    - title: Practical Methodology
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 11: Practical Methodology"
+      url: http://www.deeplearningbook.org/contents/guidelines.html
+    - title: "Practical Methodology Talk by Ian Goodfellow"
+      url: https://www.youtube.com/watch?v=NKiwFF_zBu4
+    - title: "Andrew Ng: Machine Learning Yearning"
+      url: http://mlyearning.org/
+    xassignment:
+    - label: Adversarial Examples
+      link: ass10.html
