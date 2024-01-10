@@ -196,6 +196,6 @@ lectures:
     reading:
     - title: Reading Assignment
       url: reading12.html
-    xassignment:
-    - label: Practical Methodology
-      link: ass11.html
+    assignment:
+    - label: Adversarial Examples
+      link: assignment11.html
