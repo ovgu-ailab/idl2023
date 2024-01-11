@@ -57,6 +57,9 @@ classifying them than for the original data! You could create adversarial exampl
 Hopefully, you are able to "break" your models somewhat reliably, but you don't
 have to expect 100% success rate with your attacks.
 
+Note: There is also 
+[a tutorial on the TF website!](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm)
+
 
 ## Adversarial Training
 
