@@ -199,3 +199,15 @@ lectures:
     assignment:
     - label: Adversarial Examples
       link: assignment11.html
+
+  - date: 2024-01-22
+    type:
+    content:
+      - title:
+        slides:
+    reading:
+      - title:
+        url:
+    assignment:
+      - label: Investigating Data Issues
+        link: assignment12.html
